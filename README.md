@@ -82,6 +82,7 @@ This is a C++ project that uses the **Diamond-Square Algorithm** to create cool-
 
 - **DiamondSquare Class**:
   - This is where the terrain is generated. It uses the Diamond-Square Algorithm to make the heightmap.
+  - Check out: **https://web.archive.org/web/20170812230846/http://www.gameprogrammer.com/fractal.html**
 
 - **DiamondSquareSDL Class**:
   - This handles all the drawing and camera controls using SDL.
