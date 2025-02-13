@@ -1,0 +1,5 @@
+[package]
+name = "diamondsquare"
+version = "0.1.0"
+authors = ["zerootoad"]
+edition = "20"
