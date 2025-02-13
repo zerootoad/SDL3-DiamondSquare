@@ -160,7 +160,7 @@ public:
     return true;
   }
 
-  /* Documentation Comments were generated using copilot plugin. */
+  /* Documentation comments were generated using the copilot plugin. */
 
   void render_height_map(DiamondSquare &ds) {
     // Set the drawing color to black and clear the renderer
